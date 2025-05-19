@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from '../images/logo.png';
+import logo from '../../images/logo.png';
 
 const Header = () => {
   return (
     <header className="header">
       <div className="container">
         <div className="logo">
-          <img src={logo} alt="Krishna Home Tuition" />
-          <span>Krishna Home Tuition</span>
+          <img src={logo} alt="EduMentor Home Tuition" />
+          <span>EduMentor Home Tuition</span>
         </div>
         <nav className="nav">
           <ul>
@@ -19,7 +19,7 @@ const Header = () => {
           </ul>
         </nav>
         <div className="contact-btn">
-          <a href="tel:+919876543210">Call Now</a>
+          <a href="tel:+917347309010">Call Now</a>
         </div>
       </div>
     </header>

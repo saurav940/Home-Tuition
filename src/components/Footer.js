@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Krishna Home Tuition</h3>
-            <p>Providing quality education at your doorstep since 2010.</p>
+            <p>Providing quality education at your doorstep since 2019.</p>
           </div>
           <div className="footer-section">
             <h3>Quick Links</h3>
@@ -20,8 +20,8 @@ const Footer = () => {
           </div>
           <div className="footer-section">
             <h3>Contact Info</h3>
-            <p>+91 9876543210</p>
-            <p>info@krishnahometuition.com</p>
+            <p>+91 7347309010</p>
+            <p>hometuitionedumentor@gmail.com</p>
           </div>
         </div>
         <div className="footer-bottom">

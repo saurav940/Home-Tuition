@@ -7,7 +7,7 @@ const About = () => {
         <div className="about-content">
           <h2>About Us</h2>
           <p>
-            Krishna Home Tuition has been providing quality education services for over 10 years. 
+            EduMentor Home Tuition has been providing quality education services for over 10 years. 
             Our team of experienced and qualified tutors are dedicated to helping students achieve 
             their academic goals through personalized attention and innovative teaching methods.
           </p>

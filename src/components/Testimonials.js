@@ -7,7 +7,7 @@ const Testimonials = () => {
         <h2>What Our Students Say</h2>
         <div className="testimonials-grid">
           <div className="testimonial-card">
-            <p>"My grades improved significantly after joining Krishna Home Tuition. The tutor was very patient and explained concepts clearly."</p>
+            <p>"My grades improved significantly after joining EduMentor Home Tuition. The tutor was very patient and explained concepts clearly."</p>
             <h4>- Ramesh, Class 10</h4>
           </div>
           <div className="testimonial-card">

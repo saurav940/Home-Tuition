@@ -8,8 +8,8 @@ const Contact = () => {
         <div className="contact-container">
           <div className="contact-info">
             <h3>Get in Touch</h3>
-            <p><strong>Phone:</strong> +91 9876543210</p>
-            <p><strong>Email:</strong> info@krishnahometuition.com</p>
+            <p><strong>Phone:</strong> +91 7347309010</p>
+            <p><strong>Email:</strong> hometuitionedumentor@gmail.com</p>
             <p><strong>Address:</strong> 123 Education Street, Learning City, 560001</p>
           </div>
           <form className="contact-form">
