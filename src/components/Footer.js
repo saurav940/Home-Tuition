@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>Krishna Home Tuition</h3>
+            <h3>EduMentor Home Tuition</h3>
             <p>Providing quality education at your doorstep since 2019.</p>
           </div>
           <div className="footer-section">
@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Krishna Home Tuition. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} EduMentor Home Tuition. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
