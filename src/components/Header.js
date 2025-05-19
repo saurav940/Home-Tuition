@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from '../../images/logo.png';
+import logo from '../../images/logo.png'; // Make sure the path is correct
+import './Header.css'; // Optional, if you have styling for Header
 
 const Header = () => {
   return (
